@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuMaker", "MenuMaker\MenuMaker.csproj", "{15DEA531-0C41-4F8A-A66F-ACBB2F55C3D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oreilly_Csharp_ch4_MenuMaker", "Oreilly_Csharp_ch4_MenuMaker\Oreilly_Csharp_ch4_MenuMaker.csproj", "{15DEA531-0C41-4F8A-A66F-ACBB2F55C3D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -8,5 +8,9 @@ namespace MenuMaker
 {
     class MeunMaker
     {
+        public Random Randomizer;
+
+        string[] Meats = { "Meats1", "Meats2", "Meats3", "Meats4", "Meats5" };
+
     }
 }
